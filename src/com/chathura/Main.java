@@ -6,5 +6,7 @@ public class Main {
         Me.sayName();
         Me.sayAge();
 
+        Muna.sayHi();
+
     }
 }
