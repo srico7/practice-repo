@@ -3,10 +3,8 @@ package com.chathura;
 public class Main {
 
     public static void main(String[] args) {
-        Me.sayName();
-        Me.sayAge();
-
-        Muna.sayHi();
-
+        String chathu;
+        chathu = "Chathura";
+        System.out.println(chathu);
     }
 }
