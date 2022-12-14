@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        final String MY_NAME = "Chathura Munasinghe";
+        System.out.println(MY_NAME);
+        System.out.println(MY_NAME);
+        System.out.println(MY_NAME);
+        System.out.println(MY_NAME);
     }
 }
